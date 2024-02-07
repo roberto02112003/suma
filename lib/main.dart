@@ -119,7 +119,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text(
           
-              'Oprime el boton que desees:',
+              'Oprime el boton que desee:',
               
             ),
             Text(
